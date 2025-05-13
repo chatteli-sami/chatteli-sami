@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="centre">My stats</h2>
+<h2 align="centre">My Stats</h2>
 <br clear="both">
 
 <div align="centre">
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="centre">Language-Framework-Tools</h2>
+<h2 align="centre">Language - Framework - Tools</h2>
 
 
 
