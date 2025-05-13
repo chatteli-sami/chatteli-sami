@@ -1,14 +1,32 @@
-<h2 align="left">Hi 👋! My name is Chatteli Sami and I'm a Full Stack Develpor</h2>
+<h1 align="left">Hi 👋! My name is Chatteli Sami and <br>
+  I'm a Full Stack Develpore</h1>
 
 ###
+
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chatteli-sami&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="163" alt="languages graph"  />
+<div align="centre">
+  <img src="https://github-readme-stats.vercel.app/api?username=chatteli-sami&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chatteli-sami&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="163" alt="languages graph" align="right" />
 </div>
 
 ###
+
+
+
+
+###
+
+
+
+<img src="https://raw.githubusercontent.com/thisisangelo/ThisIsAngelo/output/github-contribution-grid-snake.svg" alt="Snake game" align="centre"/>
+
+
+
+###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
@@ -56,7 +74,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="39" alt="visualstudio logo"  />
 </div>
 
+
+
 ###
+
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -64,5 +86,7 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
+
+
 
 ###
