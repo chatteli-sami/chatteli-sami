@@ -1,9 +1,9 @@
-<h1 align="left">Hi 👋! My name is Chatteli Sami and <br>
+<h1 align="centre">Hi 👋! My name is Chatteli Sami and <br>
   I'm a Full Stack Develpore</h1>
 
 ###
 
-
+<h2 align="centre">My stats</h2>
 <br clear="both">
 
 <div align="centre">
@@ -25,6 +25,9 @@
 
 
 ###
+
+<h2 align="centre">Language-Framework-Tools</h2>
+
 
 
 
