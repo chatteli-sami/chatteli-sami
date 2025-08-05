@@ -1,5 +1,6 @@
 <h1 align="centre">Hi 👋! My name is Chatteli Sami <br>
-  I'm a Full Stack Developer</h1>
+ Software Developer | Full Stack Developer <br>
+ Designer</h1>
 
 ###
 
