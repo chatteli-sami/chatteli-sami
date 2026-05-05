@@ -2,17 +2,9 @@
  Software Developer | Full Stack Developer <br>
  Designer</h1>
 
- <a href="https://chatteli-portfolio.netlify.app/" style="">My Portfolio</a>
-
 ###
 
-<h2 align="centre">My Stats</h2>
-<br clear="both">
-
-<div align="centre">
-  <img src="https://github-readme-stats.vercel.app/api?username=chatteli-sami&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chatteli-sami&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="163" alt="languages graph" align="right" />
-</div>
+<a href="https://chatteli-portfolio.netlify.app/" style="">My Portfolio</a>
 
 ###
 
