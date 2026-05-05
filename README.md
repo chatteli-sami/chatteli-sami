@@ -2,6 +2,8 @@
  Software Developer | Full Stack Developer <br>
  Designer</h1>
 
+ <a href="https://chatteli-portfolio.netlify.app/">My Portfolio</a>
+
 ###
 
 <h2 align="centre">My Stats</h2>
